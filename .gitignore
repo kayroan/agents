@@ -191,3 +191,5 @@ memory.db
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
+/1_foundations/.gradio/certificate.pem
+/.output.txt
