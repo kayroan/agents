@@ -1,4 +1,4 @@
-find_trending_companies:
+ find_trending_companies:
   description: >
     Find the top trending companies in the news in {sector} by searching the latest news. Find new companies that you've not found before.
   expected_output: >

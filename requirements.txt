@@ -871,3 +871,5 @@ zstandard==0.23.0
 
 agents
 django-sendgrid-webhook
+crewai-tools
+crewai
